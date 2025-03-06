@@ -23,7 +23,7 @@
  <table>
    <tr>
    <td>
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alex-Shipula&show_icons=true&locale=en&layout=compact"      alt="Alex-Shipula" /></p>
+<!--    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alex-Shipula&show_icons=true&locale=en&layout=compact"      alt="Alex-Shipula" /></p> -->
    <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Alex-Shipula&show_icons=true&count_private=true" />
    </td>
   </tr>   
