@@ -6,7 +6,7 @@
 
 <br />
  
-- 💻 Front End Engineer | 6+ years of experience in React | TypeScript | Material UI | Web3 | Firebase | Electron JS | Cyber Security
+- 💻 Web Engineer | 6+ years of experience in React | TypeScript | Material UI | Web3 | Firebase | Electron JS | Cyber Security
 <br />
  
 - 🌱 Tech Stack:
