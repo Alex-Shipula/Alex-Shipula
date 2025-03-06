@@ -11,10 +11,10 @@
  
 - 🌱 Tech Stack:
 - **Languages: JavaScript, TypeScript**
-- **Frontend: ReactJS, Redux-Toolkit, Material UI, Radix UI, SCSS**
-- **Backend: Node.js, Firebase, Web3, ElectronJS**
+- **Frontend: ReactJS, Angular, Redux-Toolkit, Material UI, Radix UI, SCSS**
+- **Backend: Node.js, Firebase, ElectronJS**
 - **Blockchain: Web3.js, Ethers.js**
-- **Tools: Git, Jira, TinyMCE, Microsoft Azure**
+
 <br />
  
 - 📫 How to reach me **[Telegram](https://t.me/alex_zpcity)**     
