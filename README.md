@@ -7,7 +7,7 @@
 <br />
  
 - 💻 Front End Engineer | 6+ years of experience in React | TypeScript | Material UI | Web3 | Firebase | Electron JS | Cyber Security
-
+<br />
  
 - 🌱 Tech Stack:
 - **Languages: JavaScript, TypeScript**
@@ -15,7 +15,7 @@
 - **Backend: Node.js, Firebase, Web3, ElectronJS**
 - **Blockchain: Web3.js, Ethers.js**
 - **Tools: Git, Jira, TinyMCE, Microsoft Azure**
-
+<br />
  
 - 📫 How to reach me **[Telegram](https://t.me/alex_zpcity)**     
 
