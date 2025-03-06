@@ -7,11 +7,12 @@
 <br />
  
 - 💻 Front End Engineer at NONAME.DIGITAL | 5+ years of experience in React | TypeScript | Material UI | Web3 | Firebase | Electron JS | Cyber Security
-- 🌱 Tech Stack **Languages: JavaScript, TypeScript**
-                - **Frontend: ReactJS, Redux-Toolkit, Material UI, Radix UI, SCSS**
-                - **Backend: Node.js, Firebase, Web3, ElectronJS**
-                - **Blockchain: Web3.js, Ethers.js**
-                - **Tools: Git, Jira, TinyMCE, Microsoft Azure**
+- 🌱 Tech Stack
+- **Languages: JavaScript, TypeScript**
+- **Frontend: ReactJS, Redux-Toolkit, Material UI, Radix UI, SCSS**
+- **Backend: Node.js, Firebase, Web3, ElectronJS**
+- **Blockchain: Web3.js, Ethers.js**
+- **Tools: Git, Jira, TinyMCE, Microsoft Azure**
 - 📫 How to reach me **alexshipula@gmail.com**     
 
 <center>
