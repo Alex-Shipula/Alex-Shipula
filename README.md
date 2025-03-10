@@ -11,7 +11,7 @@
  
 - 🌱 Tech Stack:
 - **Languages: JavaScript, TypeScript**
-- **Frontend: ReactJS, Angular, Redux-Toolkit, Material UI, Radix UI, SCSS**
+- **Frontend: React, Angular, Redux-Toolkit, Material UI, Radix UI, SCSS, TailwindCSS**
 - **Backend: Node.js, Firebase, ElectronJS**
 - **Blockchain: Web3.js, Ethers.js**
 
