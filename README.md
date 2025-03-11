@@ -2,9 +2,7 @@
 
 <h3 align="left">Connect with me:</h3> 
 
-# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-shipula/)](https://www.linkedin.com/in/alex-shipula/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/alex-shipula/)](https://github.com/alex-shipula/)
-
-<br />
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-shipula/)](https://www.linkedin.com/in/alex-shipula/)
  
 - 💻 Web Engineer | 6+ years of experience in React | TypeScript | Material UI | Web3 | Firebase | Electron JS | Cyber Security
 <br />
