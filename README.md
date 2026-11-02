@@ -28,7 +28,7 @@
 
 - 🌱 Tech Stack:
 - **Security: Burp Suite, Frida, ADB, Nmap, Nuclei, Subfinder, HTTPX, Katana, Metasploit**
-- **Languages: Python, TypeScript, JavaScript, Rust (learning), Go (working with services)**
+- **Languages: Python, TypeScript, JavaScript, C# (learning), Rust (learning), Go (working with services)**
 - **Web & Desktop: Next.js, React, Node.js, Electron, React Native**
 - **Blockchain: Web3.js, Ethers.js, Ethereum, BNB Chain**
 - **Environment: Linux (Ubuntu), Docker, Git**
