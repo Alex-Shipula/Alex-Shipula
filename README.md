@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-shipula/)](https://www.linkedin.com/in/alex-shipula/) [[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/alex_zpcity)
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-shipula/)](https://www.linkedin.com/in/alex-shipula/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/alex_zpcity)
 
 - 🔐 Security Engineer | Application Security | Reverse Engineering | Cryptography | 7+ years in software development
 - 🎓 BSc in Cybersecurity (ZNTU, 2022–2026) | MSc in Cybersecurity of Intelligent Systems (Odesa Polytechnic, 2026–2028)
