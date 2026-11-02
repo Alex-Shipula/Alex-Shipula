@@ -11,7 +11,7 @@
 <br />
 
 - 🔍 Focus:
-- **Application & API Security: HTTP/HTTPS traffic analysis, authentication and session management, authorization flaws, WebSockets**
+- **Application & API Security: OWASP, HTTP/HTTPS traffic analysis, authentication and session management, authorization flaws, WebSockets**
 - **Reverse Engineering: JavaScript AST analysis, Android apps (ADB, Frida), runtime hooking**
 - **Browser & Network: Chromium, browser fingerprinting, session isolation, proxy tunneling, TLS, HTTP/2, HTTP/3**
 - **Applied Cryptography: ECC, ECDSA/EdDSA, ECDH/X25519, HKDF, AEAD (AES-GCM, ChaCha20-Poly1305), TLS 1.3, HPKE, OPAQUE, ZKP, post-quantum basics**
